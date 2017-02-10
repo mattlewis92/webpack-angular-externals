@@ -1,7 +1,7 @@
 # webpack-angular-externals
 [![Build Status](https://travis-ci.org/mattlewis92/webpack-angular-externals.svg?branch=master)](https://travis-ci.org/mattlewis92/webpack-angular-externals)
 [![codecov](https://codecov.io/gh/mattlewis92/webpack-angular-externals/branch/master/graph/badge.svg)](https://codecov.io/gh/mattlewis92/webpack-angular-externals)
-> Tiny utility to prevent webpack bundling @angular dependencies in your library code
+> A tiny utility to prevent webpack bundling @angular dependencies in your library code
 
 ## Installation
 

@@ -1,7 +1,7 @@
 {
   "name": "webpack-angular-externals",
   "version": "1.0.0",
-  "description": "Tiny utility to prevent webpack bundling @angular dependencies in your library code",
+  "description": "A tiny utility to prevent webpack bundling @angular dependencies in your library code",
   "main": "src/index.js",
   "scripts": {
     "lint": "xo",
