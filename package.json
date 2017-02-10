@@ -41,6 +41,9 @@
     "webpack": "^2.2.1",
     "xo": "~0.17.1"
   },
+  "peerDependencies": {
+    "webpack": ">=2.0.0"
+  },
   "dependencies": {
     "lodash.camelcase": "^4.3.0"
   },
